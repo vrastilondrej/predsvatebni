@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+Obsah:
+[TOC]
 
-You can use the [editor on GitHub](https://github.com/vrastilondrej/predsvatebni/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Schůzka s novomanžely
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Proč jsme se sešli 
 
-### Markdown
+* Abychom si poznali, trošku si popovídali, vyjasnili svoje očekávání
+* Zamezíme zklamání z nějakého očekávání - řekneme si kolik fotek, jak upravené, kdy v jakém formátu
+* [v budoucnu] Podepíšeme smlouvu o focení
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Moje otázky
 
-```markdown
-Syntax highlighted code block
+* Kolik bude na svatbě přibližně hostů?
+* Jaký bude je program svatby?
+* Od kdy do kdy mě na svatbě chcete mít?
+* Kde se bude fotit skupinová fotografie všech hostů, fotografie skupinek a společné fotografie novomanželů? Je nějaká alternativa pro případ deště?
+* Bude svatba laděná do nějakého stylu, barvy?
 
-# Header 1
-## Header 2
-### Header 3
+## Popis průběhu focení
+* Náturou jsem reportážní fotograf. Nebudu a ani nechci Vás stylizovat do nepřirozených póz a rušit vás tak od Vašeho svatebního dne. Chci zachytit vaše emoce během dne i emoce hostů. 
 
-- Bulleted
-- List
+* Během celého dne pozoruji dění a snažím se být u každého zajímavého okamžiku, přesto je dobré mi dát o nejdůležitějších bodech svatby vědět. 
 
-1. Numbered
-2. List
+* Nejdůležitější části svatby, které jsou pro většinu svateb společné:
 
-**Bold** and _Italic_ and `Code` text
+  * focení příprav — líčení oblékání nevěty, případně i ženicha,
 
-[Link](url) and ![Image](src)
-```
+  * příjezd na místo obřadu,
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  * průběh celého obřadu  — od příchodu až po svatební gratulace (proslov oddávajícího, výměna prstýnku, novomanželský polibek, podpis , případný přípitek, gratulace rodičů,  svědků a ostatních hostů),
 
-### Jekyll Themes
+  * skupinová fotografie novomanželů a všech hostů,
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vrastilondrej/predsvatebni/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  * fotografování novomanželů v menších skupinách (obyčejně svědci, různé části rodiny, kamarádi, atd.),
 
-### Support or Contact
+  * fotografování novomanželů na předem zvoleném místě — tohle je většinou chvíle, kdy si můžete od všeho shonu trošku odpočinout a užít si jeden druhého, 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  * „zatahování“
+
+  * případný přejezd na místo hostiny, proslovy, začátek hostiny
+
+    [ *Je fajn, když i já jako fotograf mám chvilku čas doplnit nějakou energii troškou jídla. Buď zasedám se svatebčany nebo mohu jíst i někde stranou, vše je na dohodě :-) Jen poznamenávám, že preferuji bezmasou stravu, což může klidně obnášet i knedlík se svíčkouvou omačkou, nic speciálního nevyžaduji* ]
+
+  * První novomanželský tanec
+
+  * Začátek volné zábavy, případně další program
+
+* Svatbu opouštím **nejdříve** v předem domluvenou dobu. Stává se, že na svatbě (s vaším svolením) zůstávám z vlastní inicativy déle — dám se s někým do řeči, zrovna je super světlo a já chci udělat ještě pár fotek atd. Tento čas se do ceny focení samozřejmě nezapočítává. 
+
+  Občas se stane, že se průběh svatby zdrží a vy chcete vyfotit ještě nějakou událost, zatímco já mám být dle domluvy už pryč.  Nezoufejte, se zdržením se počítá. Určitě mohu zůstat i déle. Pokud se program zdrží o půl hodiny, nic se neděje, za každou další započatou půlhodinu navíc si účtuji 500,- Kč
+
+  *Příklad: Pokud budete chtít, abych se na svatbě zdržel o 80min déle, k ceně svatby bude připočteno 1000 Kč*.
+
+  **Určitě chápete, že i já se těším domů. Proto si vyhrazuji právo odmítnout fotografování na svatbě nad 60 min domluvené doby**.
+
+* Svatba je pro mě společenská událost, proto chodím oblečen ve společenském obleku a košili. V případě teplého počasí (takže na většině letních svateb;-) si sako odkládám. 
+
+  **Pokud by stylizace vaší svatby neladila s vyše uvedeným oblečením, není pro mě  problém se přizpůsobit, jen mi o tom prosím dejte včas vědět.**
+
+## Jak to bude probíhat po svatbě?
+
+* Vy si pravděpodobně budete užívát svatební cesty ♀♥♂ , pro mě začíná druhá část práce — editace fotografií.
+
+* Nejdříve všechny fotografie nakopíruji do počítače. Poté projíždím fotografii po fotografii a vybírám ty nejlepší. Z celodenní svatby je to cca 500 fotografií. 
+
+* Každou fotografii v tomto výběru pak jednu po druhé upravuji. Nejčastěji se jedná o úpravy světelnosti fotografií, barevného podání, dále ořez a drobné retuše.
+
+* Dostanete všechny tyto upravené fotky, a to každou ve dvou vyhotoveních:
+
+  *  velký soubor soubor určený k tisku a archivaci
+  * malý soubor na posílaní mailem, sdílení na sociálních sítích atd.  
+
+* Fotky budou předány formou odkazu na stáhnutí. 
+
+* Neupravené fotografie neposkytuji. `TODO: doplnit proč`
+
+* Upravené fotografie nejdéle do 6 týdnu od svatby. 
+
+* Pošlu vám odkaz i na vaši soukroumou galerii s nejlepšími snímky. Můžete poslat odkaz i své rodině a přátelům.
+
+* Pokud ne
+
+  | Balíček 1 | Balíček 2 | Balíček 3 |
+  | :-------: | :-------: | :-------: |
+  |   sdsd    |           |           |
+
+  
